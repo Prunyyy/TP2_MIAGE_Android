@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/reset"
+        android:title="@string/reset" />
+    <item android:id="@+id/save"
+        android:title="@string/save" />
+    <item android:id="@+id/display"
+        android:title="@string/display" />
+    <item android:id="@+id/add_object"
+        android:title="@string/add_object"/>
+    <item android:id="@+id/add_connexion"
+        android:title="@string/add_connexion" />
+    <item android:id="@+id/edit_object"
+        android:title="@string/edit_object" />
+    <item android:id="@+id/move_object"
+        android:title="@string/move_object" />
+
+</menu>

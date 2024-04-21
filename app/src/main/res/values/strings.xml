@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">NetworkLodioro/Sahore</string>
+    <string name="reset">Reinitialiser le réseau</string>
+    <string name="save">Sauvegarder le réseau</string>
+    <string name="display">Afficher un réseau sauvegardé</string>
+    <string name="add_object">Ajouter un objet</string>
+    <string name="add_connexion">Ajouter une connexion</string>
+    <string name="edit_object">Modifier un objet</string>
+    <string name="move_object">Deplacer l\'objet\n</string>
+    <string name="alerteDialog_title">"Nom de l'objet"</string>
+    <string name="alerteDialog_message">"Saisir le nom de l'objet"</string>
+    <string name="alerteDialog_confirm">Créer</string>
+
+
+
+
+
+    <string name="alerteDialog_cancel">Annuler</string>
+    <string name="save_network">Sauvegarder le réseau</string>
+    <string name="view_saved_network">Voir le réseau sauvegardé</string>
+    <string name="view_import_saved_network">Importer un réseau sauvegardé</string>
+    <string name="delete_saved_network">Supprimer les réseaux sauvegardés</string>
+    <string name="delete_saved_network_confirm">Supprimer</string>
+    <string name="send_mail">Envoyer par mail</string>
+    <string name="alerteDialog_connexion_title">"Nom de la connexion"</string>
+    <string name="alerteDialog_connexion_message">"Saisir le nom de la connexion"</string>
+    <string name="alerteDialog_connexion_confirm">Créer</string>
+    <string name="alerteDialog_connexion_cancel">Annuler</string>
+    <string name="save_network_confirm_message">Votre reseau a bien été enregistré</string>
+    <string name="edit_connection">Modifier Connexion</string>
+    <string name="delete_object">Supprimer Objet</string>
+    <string name="delete_connection">Supprimer Connexion</string>
+    <string name="alerteDialog_edit_menu_title">"Modifier objet"</string>
+    <string name="alertDialog_connexion_edit_title">"Modifier connexion"</string>
+    <string name="alertDialog_connexion_edit_message">"Saisir le nom de la connexion"</string>
+    <string name="alertDialog_connexion_edit_confirm">OK</string>
+    <string name="hintText">Nom</string>
+    <string name="choseColorTitle">Choisir une couleur</string>
+    <string name="red">Rouge</string>
+    <string name="blue">Bleu</string>
+    <string name="purple">Violet</string>
+    <string name="green">Vert</string>
+    <string name="yellow">Jaune</string>
+    <string name="orange">Orange</string>
+    <string name="cyan">Cyan</string>
+    <string name="magenta">Magenta</string>
+    <string name="black">Noir</string>
+    <string name="white">Blanc</string>
+    <string name="checkForDelete">"Cocher pour supprimer l'objet!"</string>
+    <string name="checkForDeleteConnection">"Cocher pour supprimer connexion</string>
+    <string name="connexionTaille_Petite">Petite</string>
+    <string name="connexionTaille_Moyenne">Moyenne</string>
+    <string name="connexionTaille_Grande">Grande</string>
+    <string name="connexionTaille">Taille de la connexion</string>
+    <string name="no_saved_network">Aucun réseau sauvegardé</string>
+    <string name="chosePlan">Choisir un plan</string>
+    <string name="Plan">Defaut</string>
+    <string name="Plan1">Plan 1</string>
+    <string name="Plan2">Plan 2</string>
+    <string name="Plan3">Plan 3</string>
+    <string name="ListeOfSavedNetwork">Liste des réseaux sauvegardés</string>
+
+
+
+
+</resources>
